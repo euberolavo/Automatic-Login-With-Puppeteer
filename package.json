@@ -1,0 +1,21 @@
+{
+    "name": "Robo",
+    "version": "1.0.0",
+    "description": "acessar pagina automatico e fazer download",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Robo",
+        "Robo Safra",
+        "edi safra"
+    ],
+    "author": "Ronald alexandre",
+    "license": "ISC",
+    "dependencies": {
+        "puppeteer": "^9.0.0",
+        "puppeteer-extra": "^3.1.16",
+        "puppeteer-extra-plugin-stealth": "^2.6.7"
+    }
+}
